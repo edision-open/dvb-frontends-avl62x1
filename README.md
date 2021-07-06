@@ -41,3 +41,7 @@ make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- KDIR=/PATH/TO/linux-LATEST_KERN
 ```
 
 Insert the avl6261.ko kernel module into /lib/modules/LATEST_KERNEL_SOURCE_VERSION/extra/avl6261.ko on your set-top box.
+
+
+### Blindscan
+[Command line blindscan program](https://github.com/edision-open/blindscan) is ready.
